@@ -423,3 +423,8 @@ Small Device Styles
   }
 
 }
+
+span.sponsor {
+  float: left;
+  padding-right: 10px;
+}
